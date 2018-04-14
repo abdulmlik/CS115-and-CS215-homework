@@ -29,7 +29,7 @@ with the highest version
 3. Build
 
 
-- Open "Editor code.cbp" with codeblocks.
+- Open "*.cpp" with codeblocks.
 - Compile.
 
 ===========
